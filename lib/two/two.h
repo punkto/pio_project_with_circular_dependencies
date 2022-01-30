@@ -1,8 +1,6 @@
 #ifndef TWO_H
 #define TWO_H
 
-#include "one.h"
-
 class two
 {
 private:

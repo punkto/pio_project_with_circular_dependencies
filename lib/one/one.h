@@ -1,7 +1,5 @@
-#ifndef ONE_H
-#define ONE_H
-
-#include "two.h"
+#ifndef ONE_DEPENDS_H
+#define ONE_DEPENDS_H
 
 
 class one
